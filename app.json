@@ -5,8 +5,8 @@
         "telegram",
         "Droplink"
     ],
-    "website": "https://github.com/Devansh20055/LINK-SHORTER",
-    "repository": "https://github.com/Devansh20055/LINK-SHORTER",
+    "website": "https://github.com/Rohanthakur360/LINK-SHORTER",
+    "repository": "https://github.com/Rohanthakur360/LINK-SHORTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
